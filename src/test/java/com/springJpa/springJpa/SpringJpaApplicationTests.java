@@ -1,0 +1,16 @@
+package com.springJpa.springJpa;
+
+import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@Disabled
+@SpringBootTest
+class SpringJpaApplicationTests {
+
+	
+	@Test
+	void contextLoads() {
+	}
+
+}
